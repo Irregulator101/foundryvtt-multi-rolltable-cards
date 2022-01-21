@@ -8,7 +8,7 @@
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [
-    "scripts/render-and-post.js"
+    "scripts/render-draggable-rolltable-result.js"
   ],
   "packs": [
     {
