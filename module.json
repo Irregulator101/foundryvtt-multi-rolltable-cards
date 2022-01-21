@@ -8,7 +8,7 @@
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [
-    "scripts/render-draggable-rolltable-result.js"
+    "./scripts/render-draggable-rolltable-result.js"
   ],
   "packs": [
     {
@@ -19,6 +19,6 @@
       "entity": "Macro"
     }
   ],
-  "manifest": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/blob/main/module.json",
-  "download": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/blob/main/multi-rolltable-cards.zip"
+  "manifest": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/releases/download/v0.2/module.json",
+  "download": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/releases/download/v0.2/multi-rolltable-cards.zip"
 }
