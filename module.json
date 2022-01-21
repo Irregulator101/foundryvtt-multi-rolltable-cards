@@ -5,16 +5,19 @@
   "author": "Wind in Trees",
   "version": "1.0.0",
   "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "0.8.9",
   "scripts": [
     "scripts/render-and-post.js"
   ],
   "packs": [
     {
-        "name": "multi-rolltable-macro-templates",
-        "label": "Multi Rolltable Macro Templates",
-        "path": "./packs/multi-rolltable-macro-templates.db",
-        "type": "Macro",
-        "entity": "Macro"
+      "name": "multi-rolltable-macro-templates",
+      "label": "Multi Rolltable Macro Templates",
+      "path": "./packs/multi-rolltable-macro-templates.db",
+      "type": "Macro",
+      "entity": "Macro"
     }
-  ]
+  ],
+  "manifest": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/blob/main/module.json",
+  "download": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/blob/main/multi-rolltable-cards.zip"
 }
