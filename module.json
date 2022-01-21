@@ -7,5 +7,14 @@
   "minimumCoreVersion": "0.8.9",
   "scripts": [
     "scripts/render-and-post.js"
+  ],
+  "packs": [
+    {
+        "name": "multi-rolltable-macro-templates",
+        "label": "Multi Rolltable Macro Templates",
+        "path": "./packs/multi-rolltable-macro-templates.db",
+        "type": "Macro",
+        "entity": "Macro"
+    }
   ]
 }
