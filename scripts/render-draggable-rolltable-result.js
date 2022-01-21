@@ -7,6 +7,7 @@ async function getItemFromTableRoll(tableResult) {
 async function getDraggableItemCardContent(itm) {
   const templateData = {
     item: itm.data,
+    pack: itm.pack,
     data: itm.getChatData(),
     labels: itm.labels,
     hasAttack: itm.hasAttack,
