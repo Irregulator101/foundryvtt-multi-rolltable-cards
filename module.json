@@ -4,6 +4,7 @@
   "description": "This module contains the framework for posting multiple rich, draggable item results from rolltables in a single chat message.",
   "author": "Wind in Trees",
   "version": "1.0.0",
+  "url": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [
