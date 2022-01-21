@@ -20,5 +20,5 @@ async function getDraggableItemCardContent(itm) {
     hasAbilityCheck: itm.hasAbilityCheck
   };
   
-  return await renderTemplate("modules/multi-rolltable-cards/item-card-draggable.html", templateData);
+  return await renderTemplate("modules/multi-rolltable-cards/templates/item-card-draggable.html", templateData);
 }
