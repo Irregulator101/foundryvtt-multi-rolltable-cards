@@ -1,0 +1,11 @@
+{
+  "name": "multi-rolltable-cards",
+  "title": "Multi-Rolltable Result Chat Cards",
+  "description": "This module contains the framework for posting multiple rich, draggable item results from rolltables in a single chat message.",
+  "author": "Wind in Trees",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.9",
+  "scripts": [
+    "scripts/render-and-post.js"
+  ]
+}
