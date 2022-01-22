@@ -1,7 +1,7 @@
 <div class="dnd5e chat-card item-card" data-item-id="{{item._id}}"
     {{#if isSpell}}data-spell-level="{{item.data.level}}"{{/if}}>
     <header class="card-header flexrow">
-        <a class="entity-link" draggable="true" data-pack="{{pack}}" data-id="{{item._id}}">
+        <a class="entity-link no-background-no-border" draggable="true" data-pack="{{pack}}" data-id="{{item._id}}">
             <img class="float-left" src="{{item.img}}" title="{{item.name}}" width="36" height="36"/>
             <h3 class="item-name float-left">{{item.name}}</h3>
         </a>
