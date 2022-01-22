@@ -3,7 +3,7 @@
   "title": "Multi-Rolltable Result Chat Cards",
   "description": "This module contains the framework for posting multiple rich, draggable item results from rolltables in a single chat message.",
   "author": "Wind in Trees",
-  "version": "0.6",
+  "version": "0.7",
   "url": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
@@ -22,6 +22,6 @@
   "styles": [
     "./styles/mrc-styles.css"
   ],
-  "manifest": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/releases/download/v0.6/module.json",
-  "download": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/releases/download/v0.6/multi-rolltable-cards.zip"
+  "manifest": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/releases/download/v0.7/module.json",
+  "download": "https://github.com/Irregulator101/foundryvtt-multi-rolltable-cards/releases/download/v0.7/multi-rolltable-cards.zip"
 }
